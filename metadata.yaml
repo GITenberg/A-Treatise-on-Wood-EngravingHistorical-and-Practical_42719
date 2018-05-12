@@ -1,0 +1,46 @@
+_repo: A-Treatise-on-Wood-EngravingHistorical-and-Practical_42719
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Jackson, John
+    birthdate: 1801
+    deathdate: 1848
+    gutenberg_agent_id: '41837'
+    url: http://www.gutenberg.org/2009/agents/41837
+  - agent_name: Chatto, William Andrew
+    aliases:
+    - Chatto, W. A. (William Andrew)
+    - Fisher, P.
+    - Chatto, William A. (William Andrew)
+    - Oliver, Stephen
+    - Fume, Joseph
+    birthdate: 1799
+    deathdate: 1864
+    gutenberg_agent_id: '41838'
+    url: http://www.gutenberg.org/2009/agents/41838
+  - agent_name: Bohn, Henry G. (Henry George)
+    aliases:
+    - Bohn, Henry George
+    - Bohn, H. G. (Henry George)
+    birthdate: 1796
+    deathdate: 1884
+    gutenberg_agent_id: '41839'
+    url: http://www.gutenberg.org/2009/agents/41839
+description: ''
+gutenberg_issued: '2013-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42719'
+  lccn: 09026537
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wood-engraving'
+- !lcc 'NE'
+title: A Treatise on Wood Engraving, Historical and Practical
+url: http://www.gutenberg.org/ebooks/42719
